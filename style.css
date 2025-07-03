@@ -70,7 +70,7 @@ button:hover{
 }
 .reg{
     margin-top: 20px;
-    text-align: center;
+    margin-left: 10px;
     font-size: 14px;
 }
 .reg a{
@@ -79,4 +79,10 @@ button:hover{
 }
 .reg a:hover{
     text-decoration: underline;
+}
+.r{
+    display: flex;
+}
+.p{
+    margin-top: 20px;
 }
